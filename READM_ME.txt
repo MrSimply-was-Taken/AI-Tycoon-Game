@@ -1,0 +1,1 @@
+For the game to work, Ollama is required along with Llama2.
